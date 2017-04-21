@@ -1,0 +1,6 @@
+[Activity]
+name = EatBoom
+activity_version = 2
+service_name = org.sugarlabs.EatBoom
+icon = activity-eatboom
+class = eatboomactivity.EatBoomActivity
